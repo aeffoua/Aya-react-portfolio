@@ -1,9 +1,11 @@
 import React from "react"
+import "./header.css"
 import Navigation from "../sub/navigation"
 const Header=()=> {
     return(
-        <div>
+        <div className="navbar">
             <div>Logo</div>
+
             <Navigation/>
         </div>
     )

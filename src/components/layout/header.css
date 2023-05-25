@@ -1,0 +1,10 @@
+.header {
+    display: grid;
+    grid-template-columns: auto auto; /* Two equal-width columns */
+    gap: 10px; /* Space between the elements */
+  }
+  
+  .child {
+    /* Optional styles for the child elements */
+  }
+  

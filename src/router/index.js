@@ -4,10 +4,12 @@ import AboutMe from "../components/about"
 import Contact from "../components/contact"
 import Portfolio from "../components/portfolio"
 import Resume from "../components/resume"
+import Header from "../components/layout/header"
 
 const Router= ()=>{
     return(
         <Browser>
+            <Header/>
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path= "/aboutme" element={<AboutMe/>}/>
