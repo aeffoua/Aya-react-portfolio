@@ -1,0 +1,36 @@
+@media (min-width: 769px) {
+
+
+  .input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 40rem;
+
+    margin-bottom: 10px;
+
+  }
+
+  .submitBtn {
+    padding: 5px;
+    width: 4rem;
+    background-color: #f1c2e3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+
+  }
+
+  #msg-input {
+    padding: 50px;
+  }
+}
+
+label {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.input-block {
+  margin-bottom: 0.5rem;
+}

@@ -4,7 +4,7 @@ import Navigation from "../sub/navigation"
 const Header=()=> {
     return(
         <div className="navbar">
-            <div>Logo</div>
+            <div className="name">Aya C. Effoua</div>
 
             <Navigation/>
         </div>

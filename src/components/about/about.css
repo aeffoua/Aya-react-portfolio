@@ -1,0 +1,12 @@
+.aboutme{
+    width: 70%;
+}
+.avatar{
+    aspect-ratio: 4/3;
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
+.avatar-section{
+    float: left;
+}

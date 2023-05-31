@@ -47,6 +47,11 @@
   .menu li a{
 
     text-decoration: none;
+
+  }
+  .menu li a:visited {
+    text-decoration: none;
+    color: white;
   }
 
   @media (min-width: 769px) {
@@ -70,6 +75,8 @@
     .menu li {
       border: none;
     }
+
+    
   }
 
  

@@ -1,0 +1,12 @@
+  @media (min-width: 769px) {
+    .inline-flex {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      
+      .inline-flex > * {
+        flex: 0 0 calc(33.33% - 10px); 
+        margin: 10px;
+         
+      }
+  }
