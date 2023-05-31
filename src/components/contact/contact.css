@@ -18,7 +18,16 @@
     color: #fff;
     border: none;
     border-radius: 4px;
-
+    transition: background-color 0.3s ease;
+  }
+  
+  .submitBtn:hover {
+    background-color: #f17cb0;
+    cursor: pointer;
+  }
+  
+  .submitBtn:active {
+    background-color: #e314a3;
   }
 
   #msg-input {
