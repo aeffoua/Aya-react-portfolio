@@ -18,14 +18,14 @@ const Portfolio =()=> {
            
            
            <div>
-           <a href="https://dellmiles24.github.io/Wellness-Checkup/"><Projects projectName={"  Wellness"} picture={Wellness}/></a>
+           <a href="https://dellmiles24.github.io/Wellness-Checkup/" target="_blank"><Projects projectName={"  wellness"} picture={Wellness}/></a>
            <br/>
-           <a href="https://github.com/aeffoua/the-wellness-checkup.git" target="blank">Wellness</a>
+           <a href="https://github.com/aeffoua/the-wellness-checkup.git" target="blank">wellness</a>
            </div>
            
            
            <div>
-           <a href="https://ideation-app-generator.herokuapp.com/"><Projects projectName={"  Ideation"} picture={Ideation}/> </a>
+           <a href="https://ideation-app-generator.herokuapp.com/" target="blank"><Projects projectName={"  Ideation"} picture={Ideation}/> </a>
            <br/>
            <a href="https://github.com/alc0ve/automatic-fortnight-debuggers" target="blank">Ideation</a>
            </div>
